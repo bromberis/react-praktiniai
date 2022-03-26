@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "task": "go fishing",
+    "status": false
+  },
+  {
+    "id": 2,
+    "task": "grab a coffee @CoffeeHouse, Vilnius str.",
+    "status": false
+  },
+  {
+    "id": 3,
+    "task": "buy some food",
+    "status": false
+  },
+  {
+    "id": 4,
+    "task": "find rollers, 11pm Saturday",
+    "status": false
+  },
+  {
+    "id": 5,
+    "task": "take a deep breath",
+    "status": false
+  },
+  {
+    "id": 6,
+    "task": "Slava Ukraini",
+    "status": false
+  }
+]
